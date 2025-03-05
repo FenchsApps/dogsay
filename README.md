@@ -65,7 +65,7 @@ DogSay can be installed on various Linux distributions. Below are the installati
 1. Download the `dogsay.sh` script:
 
    ```bash
-   wget https://raw.githubusercontent.com/yourusername/dogsay/main/dogsay.sh
+   wget https://raw.githubusercontent.com/FenchsApps/dogsay/main/dogsay.sh
    ```
 
 2. Make it executable:
