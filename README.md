@@ -30,15 +30,9 @@ DogSay can be installed on various Linux distributions. Below are the installati
 
 ---
 
-##### **2. Arch Linux**
+##### **2. Arch**
 
-1. Install from the AUR using an AUR helper like `yay`:
-
-   ```bash
-   yay -S dogsay
-   ```
-
-2. Alternatively, build and install manually:
+1. build and install manually:
 
    ```bash
    git clone https://aur.archlinux.org/dogsay.git
@@ -48,22 +42,6 @@ DogSay can be installed on various Linux distributions. Below are the installati
 
 ---
 
-##### **3. Ubuntu/Debian**
-
-1. Download the `.deb` package from the releases page.
-2. Install using `dpkg`:
-
-   ```bash
-   sudo dpkg -i dogsay_1.0_all.deb
-   ```
-
-3. Install missing dependencies (if any):
-
-   ```bash
-   sudo apt --fix-broken install
-   ```
-
----
 
 
 #### **Usage**
