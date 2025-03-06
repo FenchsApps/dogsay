@@ -35,8 +35,8 @@ DogSay can be installed on various Linux distributions. Below are the installati
 1. build and install manually:
 
    ```bash
-   git clone https://aur.archlinux.org/dogsay.git
-   cd dogsay
+   https://github.com/FenchsApps/dogsay.git
+   cd /dogsay/main
    makepkg -si
    ```
 
