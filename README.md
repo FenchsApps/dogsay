@@ -8,6 +8,11 @@
 
 ---
 
+#### **WARNING**
+Build may doesn't works for gentoo, arch and ubuntu with debian
+
+---
+
 #### **Installation**
 
 DogSay can be installed on various Linux distributions. Below are the installation instructions for different systems.
