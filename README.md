@@ -149,17 +149,7 @@ dogsay --config default "Back to default!"
 
 #### **Authors**
 
-DogSay was created by **Your Name** with contributions from the open-source community. Special thanks to all the ASCII artists who inspired the dog designs!
+DogSay was created by **FenchsApps** with contributions from the open-source community. Special thanks to all the ASCII artists who inspired the dog designs!
 
-- **GitHub**: [yourusername](https://github.com/yourusername)
-- **Email**: your.email@example.com
-
----
-
-#### **License**
-
-DogSay is licensed under the **GNU General Public License v2 (GPL-2)**. You are free to use, modify, and distribute this software as long as you comply with the terms of the license.
-
----
 
 Enjoy using DogSay! 🐕✨
