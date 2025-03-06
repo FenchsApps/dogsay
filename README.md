@@ -9,7 +9,7 @@
 ---
 
 #### **WARNING**
-Build may doesn't works for gentoo, arch and ubuntu with debian
+Build may doesn't works for ubuntu and debian
 
 ---
 
