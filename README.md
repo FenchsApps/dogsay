@@ -15,33 +15,14 @@ Build may doesn't works for ubuntu and debian
 
 #### **Installation**
 
-DogSay can be installed on various Linux distributions. Below are the installation instructions for different systems.
+
 
 ---
-
-##### **1. Gentoo**
-
-1. Add the DogSay ebuild to your local overlay.
-2. Install using `emerge`:
-
-   ```bash
-   emerge --ask app-misc/dogsay
-   ```
-
+git clone https://github.com/FenchsApps/dogsay.git
+cd ~/dogsay/main
+chmod +x dogsay.sh
+./dogsay.sh --flags
 ---
-
-##### **2. Arch**
-
-1. build and install manually:
-
-   ```bash
-   https://github.com/FenchsApps/dogsay.git
-   cd /dogsay/main
-   makepkg -si
-   ```
-
----
-
 
 
 #### **Usage**
